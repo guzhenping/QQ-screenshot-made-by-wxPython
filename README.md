@@ -4,6 +4,6 @@
 
 这是一个Python脚本，开发使用Python2.7 IDLE
 
-使用wxPython，可以实现跨平台运行，在windows,linux,Mac OS 都可以跑。
+使用wxPython（请自行安装，需要wx模块），可以实现跨平台运行，在windows,linux,Mac OS 都可以跑。
 
 如有问题，请留言。
